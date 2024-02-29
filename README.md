@@ -11,3 +11,7 @@ This project is a test participatory map for an assignment. Compliing this parti
 2. **Add Your Location**: While adding your story, please also mention the location of your experience. This project mainly focuses on Metro Seattle area, so if you're in Seattle, great! If not, feel free to add your experience from any other location in the world.
 
 3. **Share and Enjoy**: Once your story is posted, it will be visible on the participatory map for others to see and enjoy. You can also browse stories shared by others.
+
+## Dployments
+1. github pages link: https://yugeramirez.github.io/GEOG458Lab5/
+2. heroku link: https://geog458-b75d9b9a55ec.herokuapp.com/
