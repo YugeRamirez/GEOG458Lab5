@@ -98,7 +98,7 @@
 
         // Fetch existing records when the window is loaded
         window.addEventListener("load", async function () {
-            let response = await fetch('https://pmap-28a9a9408e2b.herokuapp.com/api/get-record', {
+            let response = await fetch('https://geog458-b75d9b9a55ec.herokuapp.com/api/get-record', {
                 method: 'GET'
             });
 
@@ -212,7 +212,7 @@
 
             try {
                 // Send the POST request to add the new record
-                await fetch('https://pmap-28a9a9408e2b.herokuapp.com/api/add-record', settings);
+                await fetch('https://geog458-b75d9b9a55ec.herokuapp.com/api/get-record', settings);
             } catch (err) {
                 // Handle any errors that occur during the request
                 console.error(err);
